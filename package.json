@@ -1,5 +1,5 @@
 {
-  "name": "next-app",
+  "name": "yoursoulution.ro",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -23,4 +23,3 @@
     "typescript": "^5.8.2"
   }
 }
-

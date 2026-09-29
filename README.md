@@ -1,4 +1,4 @@
-# Next App
+# yoursoulution.ro
 
 Minimal Next.js App Router project, ready to deploy on Vercel.
 
@@ -16,4 +16,3 @@ Open http://localhost:3000.
 ## Deploy to Vercel
 
 Import this repository into Vercel. The framework and build settings are detected automatically.
-
